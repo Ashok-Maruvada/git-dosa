@@ -4,4 +4,5 @@ masala dosa
 plain dosa
 double egg dosa
 mixed dosa
-ghee dosa
+cheese dosa
+cheese with ghee
