@@ -6,3 +6,4 @@ double egg dosa
 mixed dosa
 cheese dosa
 cheese with ghee
+new version: 1.8
