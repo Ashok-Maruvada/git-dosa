@@ -1,4 +1,4 @@
-                                ### Important ###
+                                # Important #
 
 someone from your team made changes to your feature branch in github and merged the changes to main.
 But you are working in your feature branch in local 
