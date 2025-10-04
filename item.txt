@@ -1,2 +1,3 @@
 powder - 1
 oil - 1.5
+masala - 2
